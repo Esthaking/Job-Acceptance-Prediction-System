@@ -186,4 +186,5 @@ Users can provide candidate details and predict whether the candidate is likely 
 
 ---
 
-#
+#  👨‍💻 Author
+Estha King
